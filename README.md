@@ -26,7 +26,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,python,git,github,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,python,git,github,mysql,postgres&theme=dark" />
 
 
 ## About me
